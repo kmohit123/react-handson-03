@@ -1,7 +1,7 @@
 import React from 'react';
 import ClassCompo from './Component/ClassCompo';
 import './App.css';
-import DisplayFune from './Component/DisplayFune';
+// import DisplayFune from './Component/DisplayFune';
 function App() {
   return (
     <>
